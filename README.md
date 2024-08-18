@@ -1,6 +1,5 @@
 # Live Barcode & Text Scanner iOS SwiftUI App with VisionKit
 
-![Alt text](./promo.jpg "Live Barcode & Text Scanner iOS SwiftUI App with VisionKit")
 
 ## Features
 - Live barcodes scan (Barcode, QR Code, Aztec, etc)
